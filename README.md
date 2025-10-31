@@ -1,6 +1,8 @@
 # work_deep_learning_m1
 #### Work carried out as part of an introductory deep learning course at Albert School.
 
+## Streamlit link :https://workdeeplearningm1.streamlit.app
+
 ## Fruit Quality Classification Project
 #### This project uses the Fruit Quality Dataset (FruQ-DB), a collection of images of 11 fruit varieties categorized by their quality: fresh, mild, and rotten.
 
